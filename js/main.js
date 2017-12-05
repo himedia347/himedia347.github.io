@@ -1,3 +1,4 @@
+var movies = JSON.parse(data).movies;
 function addRow(id, title, thumb, movie) {
     var div = document.createElement('div');
 
@@ -11,9 +12,15 @@ function addRow(id, title, thumb, movie) {
 }
 function loadVid(id){
     console.log(id);
-    $('body').load('single.html');
+    var movie = movies[id-1];
+    $('body').load('https://himedia347.github.io/single.html');
+    var video = document.createElement('div');
+    video.poster=movie.thumb;
+    video.innerHTML = ' <video poster="portfolio/thumbs/'+movie.thumb+'" id="vid" playsinline>\n'+
+    '<source src="portfolio/vid/'+movie.movie+'" type="video/mp4">\n'+
+    '</video>\n';
+    document.getElementById('vid').appendChild(video)
 }
-var movies = JSON.parse(data).movies;
 for(var i = 0; i < movies.length; i++) {
     var obj = movies[i];
     console.log(obj);
