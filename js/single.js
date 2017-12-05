@@ -19,7 +19,7 @@ function loadVid(){
     var movie = movies[id-1];
         var video = document.createElement('div');
     video.poster=movie.thumb;
-    video.innerHTML = ' <video id="video" poster="portfolio/thumbs/'+movie.thumb+'" id="vid" width="100%"controls playsinline>\n'+
+    video.innerHTML = ' <video id="video" poster="portfolio/thumbs/'+movie.thumb+'" id="vid" width="100%"controls playsinline controlsList="nodownload">\n'+
         '<source src="portfolio/vid/'+movie.movie+'" type="video/mp4">\n'+
         '</video>\n';
     document.getElementById('vid').appendChild(video);
