@@ -43,10 +43,12 @@ nav{
 #bg video {
   min-width: 100%;
   min-height: 100%;
+  width: auto;
   background-size: cover;
   height: auto;
   object-fit: fill;
   max-height: 600px;
+  max-width: 100%;
 }
  .card{ border: none; border-radius: 0px;}
 
