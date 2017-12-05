@@ -7,7 +7,7 @@
 html{
   position: relative;
   min-height: 100%;
-
+  overflow-x: hidden;
 }
 body {
   padding-top: 80px;
@@ -15,6 +15,7 @@ body {
   font-weight: 300;
   overflow-x: hidden;
   margin: 0 0 150px;
+  max-width: 100%;
 }
 nav{
   text-transform: uppercase;
