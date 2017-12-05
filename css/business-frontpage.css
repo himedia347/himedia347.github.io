@@ -43,7 +43,6 @@ nav{
 #bg video {
   min-width: 100%;
   min-height: 100%;
-  width: auto;
   background-size: cover;
   height: auto;
   object-fit: fill;
