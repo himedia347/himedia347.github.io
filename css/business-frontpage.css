@@ -3,30 +3,32 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
  */
-@font-face {
-  font-family: 'Roboto'; /*a name to be used later*/
-  src: url('Roboto-Regular.ttf'); /*URL to font*/
-}
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
 html{
   position: relative;
   min-height: 100%;
 
 }
 body {
-  padding-top: 54px;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
+  padding-top: 80px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
   overflow-x: hidden;
-  margin: 0 0 100px;
-
+  margin: 0 0 150px;
 }
 nav{
   text-transform: uppercase;
+  font-weight: 400;
 }
 
 @media (min-width: 992px) {
   body {
-    padding-top: 56px;
+    padding-top: 80px;
+  }
+  #vid{
+    width: 768px;
+    height: 482px;
+    margin: auto;
   }
 }
 
@@ -51,6 +53,16 @@ nav{
     text-align: center;
     margin:0 auto;
   }
+  #collapsingNavbar3{
+    position: absolute;
+  }
+  #middleNav{
+    margin: 0 25px 0 25px;
+  }
+  .fixed-top{
+    height: 80px;
+  }
+
 }
 #bg video {
   min-width: 100%;
