@@ -1,0 +1,3 @@
+data ='{"movies":[{ "id": 1, "title":"Aasy", "thumb":"300x200.png", "movie":"aasy.mp4" },'+
+'{ "id": 2, "title":"Aasy - teaser", "thumb":"300x200.png", "movie":"aasyteaser.mp4" },'+
+'{ "id": 3, "title":"Atlas", "thumb":"300x200.png", "movie":"atlas.mp4" }]}'
