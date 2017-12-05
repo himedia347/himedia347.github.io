@@ -7,11 +7,18 @@
   font-family: 'Roboto'; /*a name to be used later*/
   src: url('Roboto-Regular.ttf'); /*URL to font*/
 }
+html{
+  position: relative;
+  min-height: 100%;
+
+}
 body {
   padding-top: 54px;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   overflow-x: hidden;
+  margin: 0 0 100px;
+
 }
 nav{
   text-transform: uppercase;
@@ -77,4 +84,9 @@ nav{
   left: 0px;
   padding-top: 25%;
 
+}
+footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
