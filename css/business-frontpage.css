@@ -3,12 +3,15 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
  */
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
-
+@font-face {
+  font-family: 'Roboto'; /*a name to be used later*/
+  src: url('Roboto-Regular.ttf'); /*URL to font*/
+}
 body {
   padding-top: 54px;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
+  overflow-x: hidden;
 }
 nav{
   text-transform: uppercase;
