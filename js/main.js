@@ -2,7 +2,7 @@ var movies = JSON.parse(data).movies;
 function addRow(id, title, thumb) {
     var div = document.createElement('div');
 
-    div.className = 'col-sm-3 my-4';
+    div.className = 'col-sm-3 xdddd';
 
     div.innerHTML = '<div class="card">\n' +
         '    <a href="single.html?id='+id+'" title="'+title+'"><img class="card-img-top" src="portfolio/thumbs/'+thumb+'" alt="'+title+'"></a>\n' +
