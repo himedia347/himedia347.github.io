@@ -1,14 +1,14 @@
-data ='{"movies":[{ "id": 1, "title":"Aasy", "thumb":"300x200.png", "movie":"aasy.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 2, "title":"Aasy - teaser", "thumb":"300x200.png", "movie":"aasyteaser.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 3, "title":"Atlas", "thumb":"300x200.png", "movie":"atlas.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 4, "title":"Claus", "thumb":"300x200.png", "movie":"claus.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 5, "title":"Golem", "thumb":"300x200.png", "movie":"golem.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+data ='{"movies":[{ "id": 1, "title":"Aasy", "thumb":"aasa_300x200.jpg", "movie":"aasy.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 2, "title":"Aasy - teaser", "thumb":"aasateaser_300x200.jpg", "movie":"aasyteaser.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 3, "title":"Atlas", "thumb":"atlas_300x200.jpg", "movie":"atlas.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 4, "title":"Claus", "thumb":"claus_300x200.jpg", "movie":"claus.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 5, "title":"Golem", "thumb":"golem300x200.jpg", "movie":"golem.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
 '{ "id": 6, "title":"Learn Polish", "thumb":"why_learn.png", "movie":"learnpolish.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 7, "title":"mprofi", "thumb":"300x200.png", "movie":"mprofi.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 8, "title":"orchestra", "thumb":"300x200.png", "movie":"orchestra.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 9, "title":"escape", "thumb":"300x200.png", "movie":"escape.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 10, "title":"performance", "thumb":"300x200.png", "movie":"performance.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 11, "title":"piekarnia", "thumb":"300x200.png", "movie":"piekarnia.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 12, "title":"puszcza", "thumb":"300x200.png", "movie":"puszcza.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 13, "title":"scott", "thumb":"300x200.png", "movie":"scott.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 14, "title":"tmobile", "thumb":"300x200.png", "movie":"tmobile.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" }]}'
+'{ "id": 7, "title":"mprofi", "thumb":"mprofi_300x200.jpg", "movie":"mprofi.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 8, "title":"orchestra", "thumb":"ico2017_300x200.jpg", "movie":"orchestra.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 9, "title":"escape", "thumb":"escape_300x200.jpg", "movie":"escape.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 10, "title":"performance", "thumb":"majdan_300x200.jpg", "movie":"performance.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 11, "title":"piekarnia", "thumb":"piekarnia_300x200.jpg", "movie":"piekarnia.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 12, "title":"puszcza", "thumb":"puszcza_300x200.jpg", "movie":"puszcza.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 13, "title":"scott", "thumb":"scot_300x200.jpg", "movie":"scott.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 14, "title":"tmobile", "thumb":"Tmobile_300x200.jpg", "movie":"tmobile.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" }]}'
