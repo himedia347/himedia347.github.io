@@ -26,11 +26,6 @@ nav{
   body {
     padding-top: 80px;
   }
-  #vid{
-    width: 768px;
-    height: 482px;
-    margin: auto;
-  }
 }
 
 .business-header {
@@ -53,9 +48,6 @@ nav{
     left: 0;
     text-align: center;
     margin:0 auto;
-  }
-  #collapsingNavbar3{
-    position: absolute;
   }
   #middleNav{
     margin: 0 25px 0 25px;
