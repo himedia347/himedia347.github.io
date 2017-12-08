@@ -17,12 +17,10 @@ var getUrlParameter = function getUrlParameter(sParam) {
 function loadVid(){
     var id = getUrlParameter('id');
     var movie = movies[id-1];
-        var video = document.createElement('div');
-    video.poster=movie.thumb;
-    video.innerHTML = ' <video id="video" poster="portfolio/thumbs/'+movie.thumb+'" id="vid" width="100%"controls playsinline controlsList="nodownload">\n'+
+    var innerHTML = ' <video id="video" poster="portfolio/thumbs/'+movie.thumb+'" id="vid" width="100%"controls playsinline controlsList="nodownload">\n'+
         '<source src="portfolio/vid/'+movie.movie+'" type="video/mp4">\n'+
         '</video>\n';
-    document.getElementById('vid').appendChild(video);
+    document.getElementById('vid').innerHTML = innerHTML;
     $("#title").text(movie.title);
     $("#desc").html(movie.desc);
 }
