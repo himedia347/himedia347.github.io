@@ -16,7 +16,11 @@ var getUrlParameter = function getUrlParameter(sParam) {
 
 function loadVid(){
     var id = getUrlParameter('id');
-    var movie = movies[id-1];
+    var movie;
+    for(var i = 0; i < movies.length; i++) {
+    if movies[i].id == id {
+        movie = movies[i];
+    }
     var innerHTML = ' <video id="video" poster="portfolio/thumbs/'+movie.thumb+'" id="vid" width="100%"controls playsinline controlsList="nodownload">\n'+
         '<source src="portfolio/vid/'+movie.movie+'" type="video/mp4">\n'+
         '</video>\n';
