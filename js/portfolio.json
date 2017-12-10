@@ -1,13 +1,13 @@
 data ='{"movies": ['+
-'{ "id": 2, "title":"Aasy - teaser", "thumb":"300x200.png", "movie":"aasyteaser.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 3, "title":"Atlas", "thumb":"300x200.png", "movie":"atlas.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 4, "title":"Claus", "thumb":"300x200.png", "movie":"claus.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 5, "title":"Golem", "thumb":"300x200.png", "movie":"golem.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 6, "title":"Learn Polish", "thumb":"300x200.png", "movie":"learnpolish.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 7, "title":"mprofi", "thumb":"300x200.png", "movie":"mprofi.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 8, "title":"orchestra", "thumb":"300x200.png", "movie":"orchestra.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 9, "title":"escape", "thumb":"300x200.png", "movie":"escape.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 10, "title":"performance", "thumb":"300x200.png", "movie":"performance.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 11, "title":"piekarnia", "thumb":"300x200.png", "movie":"piekarnia.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 12, "title":"puszcza", "thumb":"300x200.png", "movie":"puszcza.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 14, "title":"tmobile", "thumb":"300x200.png", "movie":"tmobile.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" }]}'
+'{ "id": 2, "title":"Aasy - teaser", "thumb":"aasa_900x600.jpg", "movie":"aasyteaser.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 3, "title":"Atlas", "thumb":atlas_900x600.jpg", "movie":"atlas.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 4, "title":"Claus", "thumb":"claus_900x600.jpg", "movie":"claus.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 5, "title":"Golem", "thumb":"golem_900x600.jpg", "movie":"golem.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 6, "title":"Learn Polish", "thumb":"whyshould_900x600.jpg", "movie":"learnpolish.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 7, "title":"mprofi", "thumb":"mprofi_900x600.jpg", "movie":"mprofi.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 8, "title":"orchestra", "thumb":"culture2017_900x600.jpg", "movie":"orchestra.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 9, "title":"escape", "thumb":"escape_900x600.jpg", "movie":"escape.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 10, "title":"performance", "thumb":"majdan_900x600.jpg", "movie":"performance.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 11, "title":"piekarnia", "thumb":"piekarnia_900x600.jpg", "movie":"piekarnia.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 12, "title":"puszcza", "thumb":"puszcza_900x600.jpg", "movie":"puszcza.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
+'{ "id": 14, "title":"tmobile", "thumb":"tmobile_900x600.jpg", "movie":"tmobile.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" }]}'
