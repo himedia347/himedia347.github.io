@@ -18,7 +18,7 @@ function loadVid(){
     var id = getUrlParameter('id');
     var movie;
     for(var i = 0; i < movies.length; i++) {
-        if movies[i].id == id {
+        if (movies[i].id == id) {
             movie = movies[i];
         }
     }
