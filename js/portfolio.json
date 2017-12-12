@@ -10,5 +10,4 @@ data ='{"movies": ['+
 '{ "id": 10, "title":"I, CULTURE Orchestra’s Performance in Maidan Nezalezhnosti", "thumb":"majdan_738x415.jpg", "movie":"performance.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
 '{ "id": 11, "title":"Handmade: Piekarnia Mariana Pozorka", "thumb":"piekarnia_738x415.jpg", "movie":"piekarnia.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
 '{ "id": 12, "title":"W sercu prastarej puszczy – Bożena i Jan Walencikowie", "thumb":"puszcza_738x415.jpg", "movie":"puszcza.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-'{ "id": 14, "title":"T-Mobile making of", "thumb":"tmobile_738x415.jpg", "movie":"tmobile.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" },'+
-']}'
+'{ "id": 14, "title":"T-Mobile making of", "thumb":"tmobile_738x415.jpg", "movie":"tmobile.mp4", "desc":"OPIS<br/> Lorem ipusm <br/> realizacja: ktos<br/> i tutez" }]}'
