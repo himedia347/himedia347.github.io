@@ -1,5 +1,5 @@
 data ='{"movies": ['+
-'{ "id": 8, "title":"I CULTURE Orchestra 2017", "thumb":"ico2017_738x415.jpg", "movie":"orchestra.mp4", "desc":"***<br/> *** <br/> *** <br/> ***" },'+
+'{ "id": 8, "title":"I CULTURE Orchestra 2017", "thumb":"ico2017_738x415.jpg", "movie":"orchestra.mp4", "desc":"I, CULTURE Orchestra 2017"<br/> zdjęcia: Hi5 Media | montaż: Katarzyna Łuka <br/> klient: culture.pl <br/> ***" },'+
 '{ "id": 3, "title":"Colour The Atlas - Scared", "thumb":"atlas_738x415.jpg", "movie":"atlas.mp4", "desc":"***<br/> *** <br/> <br/> ***" },'+
 '{ "id": 4, "title":"Claus Zinger - No One I Know", "thumb":"claus_738x415.jpg", "movie":"claus.mp4", "desc":"***<br/> *** <br/> ***<br/> ***" },'+
 '{ "id": 5, "title":"The True Origins of the Polish Golem", "thumb":"golem_738x415.jpg", "movie":"golem.mp4", "desc":"***<br/> *** <br/> ***<br/> ***" },'+
