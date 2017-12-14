@@ -3,7 +3,7 @@ data ='{"movies": ['+
 '{ "id": 3, "title":"Colour The Atlas - Scared", "thumb":"atlas_738x415.jpg", "movie":"atlas.mp4", "desc":"zdjęcia: Hi5 Media<br/> scenariusza | reżyseria | montaż: Łuaksz Pytlik" },'+
 '{ "id": 4, "title":"Claus Zinger - No One I Know", "thumb":"claus_738x415.jpg", "movie":"claus.mp4", "desc":"zdjęcia: Hi5 Media<br/>scenariusza | reżyseria | montaż: Łuaksz Pytlik" },'+
 '{ "id": 5, "title":"The True Origins of the Polish Golem", "thumb":"golem_738x415.jpg", "movie":"golem.mp4", "desc":"realizacja: Hi5 Media<br/>klient: culture.pl" },'+
-'{ "id": 6, "title":"Why You Should Learn Polish", "thumb":"whyshouldlearnpolish_738x415.jpg", "movie":"learnpolish.mp4", "desc":"realizacja: Hi5 Media<br/>klient: culture.pl" },'+
+'{ "id": 6, "title":"Why You Should Learn Polish", "thumb":"whyshouldlearnpolish_738x415.jpg", "movie":"learnpolish.mp4", "desc":"realizacja: Hi5 Media<br/>ilustracje: Katarzyna Piątek <br/>klient: culture.pl" },'+
 '{ "id": 7, "title":"mProfi.pl - platforma usług SMS", "thumb":"mprofi_738x415.jpg", "movie":"mprofi.mp4", "desc":"realizacja: Hi5 Media<br/>klient: Materna Communications" },'+
 '{ "id": 2, "title":"aasynetu.pl", "thumb":"aasynetu_738x415.jpg", "movie":"aasyteaser.mp4", "desc":"realizacja: Hi5 Media <br/>klient: Aasa Polska" },'+
 '{ "id": 9, "title":"Sebastien feat. Satellite Music | Escape", "thumb":"escape_738x415.jpg", "movie":"escape.mp4", "desc":"zdjęcia: Hi5 Media<br/>scenariusza | reżyseria | montaż: Łuaksz Pytlik" },'+
