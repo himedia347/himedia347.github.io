@@ -107,3 +107,8 @@ footer{
   padding-right: 1px;
   margin-top: 2px;
 }
+#bg{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('abc');
+    }
